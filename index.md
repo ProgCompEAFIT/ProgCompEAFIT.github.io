@@ -2,25 +2,29 @@
 
 Hola, bienvenido a la página NO oficial de Programación de computadores de la universidad EAFIT.
 
-## Programa de la mastering-markdown
+## Programa de la materia
+  + aca
+## Profesores
+
+## Monitores
+
 ## Presentaciones
-
+  + tambien
+  
+## Ejemplos
+ + aca código
+ 
+ 
 ## Eercicios
-
+  - he de poner
+  
 ## Recuersos Adicionales
-
+  los otros recursos
+  
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+test
 
 **Bold** and _Italic_ and `Code` text
 

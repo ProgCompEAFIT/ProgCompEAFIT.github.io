@@ -5,8 +5,8 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 ## Programa de la materia
   + aca.
 
-## [Profesores](/profesores/profes.md)
-
+## [Profesores](profesores/profes.md)
+ [Profesores](profesores/profes.md)
 
 ## Monitores
 

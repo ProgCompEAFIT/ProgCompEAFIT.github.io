@@ -11,7 +11,9 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 ## Monitores
 
 ## Presentaciones
-  + tambien
+
+  + [Semana 7](presentaciones/s7.md)
+
 
 ## Ejemplos
  + aca código

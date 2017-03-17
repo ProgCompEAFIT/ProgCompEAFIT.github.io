@@ -6,7 +6,7 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
   + aca.
 
 ## Profesores
-  +![Sergio Monsalve](aux/img/sam.jpg)
+  +![Sergio Monsalve](/aux/img/sam.jpg)
 
 ## Monitores
 

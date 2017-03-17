@@ -1,3 +1,8 @@
+---
+title: Progrmación de Computadores
+layout: post
+---
+
 # Welcome to GitHub Pages
 
 Hola, bienvenido a la página NO oficial de Programación de computadores de la universidad EAFIT.

@@ -5,8 +5,8 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 ## Programa de la materia
   + aca.
 
-## Profesores
-  +![Sergio Monsalve](/aux/img/sam.jpg)
+## [Profesores](/profesores/profes.md)
+
 
 ## Monitores
 
@@ -30,5 +30,5 @@ test
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+ and ![Image](src)
 ```

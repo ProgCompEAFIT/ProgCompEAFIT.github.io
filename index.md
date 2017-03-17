@@ -3,24 +3,26 @@
 Hola, bienvenido a la página NO oficial de Programación de computadores de la universidad EAFIT.
 
 ## Programa de la materia
-  + aca
+  + aca.
+
 ## Profesores
+  +![Sergio Monsalve](aux/img/sam.jpg)
 
 ## Monitores
 
 ## Presentaciones
   + tambien
-  
+
 ## Ejemplos
  + aca código
- 
- 
+
+
 ## Eercicios
   - he de poner
-  
+
 ## Recuersos Adicionales
   los otros recursos
-  
+
 ```markdown
 Syntax highlighted code block
 

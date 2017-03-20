@@ -1,3 +1,9 @@
+---
+layout: post
+title: Programación de Computadores: Monitores
+---
+
+
 _En Orden de izquierda a derecha 1,2,3,4,5,6_
 
 ![Monitores](/aux/img/monitores.jpg)

@@ -1,17 +1,17 @@
-# Welcome to GitHub Pages
+# Programación de Computadores
 
-Hola, bienvenido a la página NO oficial de Programación de computadores de la universidad EAFIT.
+Hola, bienvenido a la página NO oficial de Programación de computadores de la _Universidad EAFIT_
 
 ## Programa de la materia
   + aca.
 
 ## [Profesores](profesores/profes.md)
- [Profesores](profesores/profes.md)
 
-## Monitores
+## [Monitores](monitores.md)
 
 ## Presentaciones
 
+  + [Semana 8: Ordenamiento y Búsqueda](presentaciones/s8.md)
   + [Semana 7](presentaciones/s7.md)
 
 

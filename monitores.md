@@ -1,6 +1,6 @@
 _En Orden de izquierda a derecha 1,2,3,4,5,6_
 
-[Monitores](/aux/img/monitores.jpg)
+![Monitores](/aux/img/monitores.jpg)
 
 **1.Mateo Hincapie**
 mhinca20@eafit.edu.co

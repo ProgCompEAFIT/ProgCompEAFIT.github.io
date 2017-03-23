@@ -1,4 +1,4 @@
-[INICIO](ProgCompEAFIT.github.io)
+[INICIO](http://www.ProgCompEAFIT.github.io)
 
 
 ```markdown

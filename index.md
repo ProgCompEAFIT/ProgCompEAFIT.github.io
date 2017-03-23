@@ -2,11 +2,11 @@
 
 Hola, bienvenido a la página NO oficial de Programación de computadores de la _Universidad EAFIT_
 
-## [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
+## 1. [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
 
 
 
-## [Profesores](profesores/profes.md)
+## 2. [Profesores](profesores/profes.md)
 
 ## [Monitores](monitores.md)
 

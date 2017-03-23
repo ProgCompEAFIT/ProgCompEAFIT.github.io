@@ -17,21 +17,13 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
 
 ## Ejemplos
- + aca código
+ + Semana 8:
+    + [Ejemplo 1](2.Ejercicios/Semana8/Ejemplo1.md)
 
 
-## Eercicios
-  - he de poner
+## Ejercicios
+  - Semana 8
 
 ## Recuersos Adicionales
-  los otros recursos
 
-```markdown
-Syntax highlighted code block
-
-test
-
-**Bold** and _Italic_ and `Code` text
-
- and ![Image](src)
-```
++ [Libro: A Byte of Python](https://python.swaroopch.com/)

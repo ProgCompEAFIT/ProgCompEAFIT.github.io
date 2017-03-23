@@ -4,36 +4,18 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
 ## 1. [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
 
-
-
 ## 2. [Profesores](profesores/profes.md)
 
-## [Monitores](monitores.md)
+## 3. [Monitores](monitores.md)
 
-## Presentaciones
+## 4. Presentaciones
 
   + [Semana 8: Ordenamiento y Búsqueda](presentaciones/s8.md)
-  + [Semana 7](presentaciones/s7.md)
+  + [Semana 7:](presentaciones/s7.md)
 
 
 ## Ejemplos
  + Semana 8:
-    + [Ejemplo 1](2.Ejercicios/Semana8/Ejemplo1.md)
-    + [Bubble Sort]()
-
-    ```python
-    def bubbleSort(alist):
-        for passnum in range(len(alist)-1,0,-1):
-            for i in range(passnum):
-                if alist[i]>alist[i+1]:
-                    temp = alist[i]
-                    alist[i] = alist[i+1]
-                    alist[i+1] = temp
-
-    alist = [54,26,93,17,77,31,44,55,20]
-    bubbleSort(alist)
-    print(alist)
-    ```
 
 
 ## Ejercicios

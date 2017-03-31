@@ -11,6 +11,7 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
 ## Presentaciones
 
+  + [Taller de Ordenamiento](presentaciones/Ordenamiento/enunciado.md)
   + [Semana 8: Ordenamiento y Búsqueda](presentaciones/s8.md)
   + [Semana 7](presentaciones/s7.md)
 

@@ -2,8 +2,7 @@
 
 Hola, bienvenido a la página NO oficial de Programación de computadores de la _Universidad EAFIT_
 
-## Programa de la materia
-  + aca.
+## [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
 
 ## [Profesores](profesores/profes.md)
 
@@ -13,25 +12,17 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
   + [Taller de Ordenamiento](presentaciones/Ordenamiento/enunciado.md)
   + [Semana 8: Ordenamiento y Búsqueda](presentaciones/s8.md)
-  + [Semana 7](presentaciones/s7.md)
+  + [Semana 7:](presentaciones/s7.md)
 
 
 ## Ejemplos
- + aca código
 
 
-## Eercicios
-  - he de poner
 
-## Recuersos Adicionales
-  los otros recursos
+## Ejercicios
+  - Semana 8
 
-```markdown
-Syntax highlighted code block
+## Recursos Adicionales
 
-test
-
-**Bold** and _Italic_ and `Code` text
-
- and ![Image](src)
-```
+1. [Libro: A Byte of Python](https://python.swaroopch.com/)
+1. [Libro: Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)

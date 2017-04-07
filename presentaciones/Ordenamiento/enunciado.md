@@ -24,6 +24,70 @@ Crear un programa que nos permita hacer una análisis de complejidad a través d
 
 # Ejemplo
 
-+ ![crear lista aleatoria de tamaño 'n' ](lista.py)
-+ ![algoritmo de ordenamiento por inserción](insort.py)
-+ ![ejemplo análisis complejidad](sol2.py)
++ [crear lista aleatoria de tamaño 'n' ](lista.py)
+
+```python
+import random
+
+tam = 100
+lista  = random.sample(range(0,tam+1),tam)
+print lista
+
+```
+
+
++ [algoritmo de ordenamiento por inserción](insort.py)
+
+
+
+```python
+import random
+
+def insertionSort():
+    tam = 100
+    lista  = random.sample(range(0,tam+1),tam/4)
+    print lista
+    for index in range(1,len(lista)):
+
+        actual = lista[index]
+        pos = index
+
+        while pos>0 and lista[pos-1]>actual:
+            lista[pos]=lista[pos-1]
+            pos = pos-1
+
+        lista[pos]=actual
+    print lista
+
+for i in range(3): insertionSort()
+
+```
+
++ [ejemplo análisis complejidad](sol2.py)
+
+
+```python
+import random
+
+def insertionSort():
+
+    tam = 100000
+    lista  = random.sample(range(0,tam+1),tam)
+    print lista
+    for index in range(1,len(lista)):
+
+        actual = lista[index]
+        pos = index
+
+        while pos>0 and lista[pos-1]>actual:
+            lista[pos]=lista[pos-1]
+            pos = pos-1
+
+        lista[pos]=actual
+    print lista
+
+if __name__ == '__main__':
+    import timeit
+    print(timeit.timeit("insertionSort()", setup="from __main__ import insertionSort", number=1))
+
+```

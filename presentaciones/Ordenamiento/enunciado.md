@@ -13,7 +13,7 @@ Crear un programa que nos permita hacer una análisis de complejidad a través d
 
 ## Que hace la función timeit de la biblioteca timeit
 
-## si se varia el tamaño de las listas aleatoras que comportamiento se tiene
+## si se varia el tamaño de las listas aleatorias que comportamiento se tiene
 
 + 10 elementos
 + 100 elementos
@@ -24,6 +24,6 @@ Crear un programa que nos permita hacer una análisis de complejidad a través d
 
 # Ejemplo
 
-+ [crear lista aleatoria de tamaño 'n' ](lista.py)
-+ [algoritmo de ordenamiento por inserción](insort.py)
-+ [ejemplo análisis complejidad](sol2.py)
++ ![crear lista aleatoria de tamaño 'n' ](lista.py)
++ ![algoritmo de ordenamiento por inserción](insort.py)
++ ![ejemplo análisis complejidad](sol2.py)

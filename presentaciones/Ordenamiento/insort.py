@@ -1,3 +1,5 @@
+
+```python
 import random
 
 def insertionSort():
@@ -17,3 +19,5 @@ def insertionSort():
     print lista
 
 for i in range(3): insertionSort()
+
+```

@@ -21,7 +21,7 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
   + [Semana 9:](presentaciones/s09/s9.md)
   + [Semana 10:](presentaciones/s10/s10.md)   
   + [Taller de Ordenamiento](presentaciones/Ordenamiento/enunciado.md)
-  + [Semana 11:](presentaciones/s11/s11.md)
+  + [Semana 11:Programación Orientada a Objetos](presentaciones/s11/s11.md)
   + [Semana 12:](presentaciones/s12/s12.md)
   + [Semana 13:](presentaciones/s13/s13.md)
   + [Semana 14:](presentaciones/s14/s14.md)

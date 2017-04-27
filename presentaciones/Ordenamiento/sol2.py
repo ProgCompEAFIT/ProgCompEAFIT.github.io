@@ -1,11 +1,10 @@
-```python
 import random
 
 def insertionSort():
 
-    tam = 100000
+    tam = 10000
     lista  = random.sample(range(0,tam+1),tam)
-    print lista
+    #print lista
     for index in range(1,len(lista)):
 
         actual = lista[index]
@@ -16,10 +15,8 @@ def insertionSort():
             pos = pos-1
 
         lista[pos]=actual
-    print lista
+    #print lista
 
 if __name__ == '__main__':
     import timeit
-    print(timeit.timeit("insertionSort()", setup="from __main__ import insertionSort", number=1))
-
-```
+    print(timeit.timeit("insertionSort()", setup="from __main__ import insertionSort", number=1000))

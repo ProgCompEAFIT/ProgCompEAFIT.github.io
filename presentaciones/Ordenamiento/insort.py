@@ -4,7 +4,7 @@ import random
 
 def insertionSort():
     tam = 100
-    lista  = random.sample(range(0,tam+1),tam/4)
+    lista  = random.sample(range(0,tam+1),tam)
     print lista
     for index in range(1,len(lista)):
 

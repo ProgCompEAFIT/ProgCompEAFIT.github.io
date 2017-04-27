@@ -41,13 +41,12 @@ Introducir al estudiante al Lenguaje de Matlab, usando para tal fin una práctic
 
 ## Rubrica Evaluación:
 
-Presentar el Código que soluciona cada pregunta
- **sustentación:** La sustentación genera Factor multiplicativo entre 0 y 1
+Presentar el Código que soluciona cada pregunta da derecho a sustentar el punto,
+lo cual dará un puntaje de acuerdo al valor de cada punto: La sustentación genera Factor multiplicativo entre 0 y 1
  Si no sustenta el FM será 0 por lo cual la nota de tal punto será 0
 
 De tal manera si usted presenta el código que resulve la pregunta pero
-en la sustentación
-# [Datos](Denguebello2014.xls)no sabe explicar o explica de forma incorrecta el
+en la sustentación no sabe explicar o explica de forma incorrecta el
 funcionamiento del mismo este modificará el valor de respuesta.
 
 ### Ejemplo

@@ -37,7 +37,12 @@ Introducir al estudiante al Lenguaje de Matlab, usando para tal fin una práctic
 
   ```
 
-## [Datos](DengueBello2014.xls)
+## [Datos Grupos 51, 286-1)](DengueBello2009.xls)
+## [Datos Grupos 56, 286-2](DengueBello2010.xls)
+## [Datos Grupos 52,67](DengueBello2011.xls)
+## [Datos Grupos 53, 66](DengueBello2012.xls)
+## [Datos Grupos 61,65, 286-3](DengueBello2013.xls)
+## [Datos Grupos 63,64, 286-4](DengueBello2014.xls)
 
 ## Rubrica Evaluación:
 

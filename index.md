@@ -39,6 +39,8 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 ## Ejercicios
   - Semana 8
 
+## [Actividades Evaluativas](Talleres/talleres.md)
+
 ## Recursos Adicionales
 
 1. [Libro: A Byte of Python](https://python.swaroopch.com/)

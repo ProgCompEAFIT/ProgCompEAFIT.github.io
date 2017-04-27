@@ -37,7 +37,7 @@ Introducir al estudiante al Lenguaje de Matlab, usando para tal fin una práctic
 
   ```
 
-## [Datos](Denguebello2014.xls)
+## [Datos](DengueBello2014.xls)
 
 ## Rubrica Evaluación:
 

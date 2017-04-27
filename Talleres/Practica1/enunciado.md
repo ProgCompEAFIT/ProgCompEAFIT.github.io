@@ -10,21 +10,21 @@ Introducir al estudiante al Lenguaje de Matlab, usando para tal fin una práctic
 ## Descripción:
 
 
-1. Punto 1: Datos Básicos
+1. Punto:
   + Cuales son las repeticiones de casos segun edades
   **Calcular edades suponiendo que la fecha actual fuera el 31 de Enero del 2015 **
 
-2. Punto 2:
+2. Punto:
   + 5 edades de mayor numero de casos (y cuantos casos) tanto para hombres como para mujeres
 
-3. Punto 3:
+3. Punto:
   + Cuantos Infectados Hombres Hubo
   + Cuantas Infectadas Mujeres Hubo
 
-4. Punto 4:
+4. Punto:
   + Crear un histograma de Edad vs cantidad de casos
 
-5. Punto 5: Semana Epidemiologica
+5. Punto:
   + Dada una fecha, retornar la semana Epidemiologica a la cual pertenece.
 
   ```
@@ -47,7 +47,7 @@ Presentar el Código que soluciona cada pregunta
 
 De tal manera si usted presenta el código que resulve la pregunta pero
 en la sustentación
-# [Datos](Denguebello2014.xls)no sabe explicar o explica de forma incorrecta el 
+# [Datos](Denguebello2014.xls)no sabe explicar o explica de forma incorrecta el
 funcionamiento del mismo este modificará el valor de respuesta.
 
 ### Ejemplo

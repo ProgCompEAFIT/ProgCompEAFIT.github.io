@@ -25,7 +25,7 @@ por entrega de Trabajos.
 __**No se aceptan respeustas sin Código!!!**__
 
 ## TEMA 0
-* [Punto 1](A/punto1.m)
+* ![Punto 1](A/punto1.m)
 * [Punto 2](punto2.txt)
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.txt)

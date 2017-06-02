@@ -10,7 +10,15 @@ Respuesta sin código *NO ES CALIFICADA*
 
 ## DATOS DE ENTRADA:
 
-Sus datos de entrada
+Para descargar los datos de entrada correspondiente a su equipo debe ver el
+número de equipo asignado
+
+## ENTREGA:
+
+tanto las respuestas conmo el código deben ser enviadas via EAFIT INTERACTIVA
+por entrega de Trabajos.
+
+__**No se aceptan respeustas sin Código!!!**__
 
 ## TEMA A
 * [Punto 1](A/punto1.m)

@@ -47,4 +47,4 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 1. [Libro: A Byte of Python](https://python.swaroopch.com/)
 1. [Libro: Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
 
-[t](final.md)
+[t](Final.md)

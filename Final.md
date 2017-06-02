@@ -11,7 +11,11 @@ Respuesta sin código *NO ES CALIFICADA*
 ## DATOS DE ENTRADA:
 
 Para descargar los datos de entrada correspondiente a su equipo debe ver el
-número de equipo asignado
+número de equipo asignado -> numeroEquipo modulo 5 -> tema asignado.
+
+Ej, Equipo 123 % 5 => 3   (% operador del modulo)
+*El tema sería el #3*
+
 
 ## ENTREGA:
 
@@ -20,31 +24,31 @@ por entrega de Trabajos.
 
 __**No se aceptan respeustas sin Código!!!**__
 
-## TEMA A
+## TEMA 0
 * [Punto 1](A/punto1.m)
 * [Punto 2](punto2.txt)
 * [Punto 3](punto3.txt)
 * [Punto 4](punto4.txt)
 
-## TEMA B
+## TEMA 1
 * [Punto 1](B/punto1.m)
 * [Punto 2](punto2.txt)
 * [Punto 3](punto3.txt)
 * [Punto 4](punto4.txt)
 
-## TEMA C
+## TEMA 2
 * [Punto 1](C/punto1.m)
 * [Punto 2](punto2.txt)
 * [Punto 3](punto3.txt)
 * [Punto 4](punto4.txt)
 
-## TEMA D
+## TEMA 3
 * [Punto 1](D/punto1.m)
 * [Punto 2](punto2.txt)
 * [Punto 3](punto3.txt)
 * [Punto 4](punto4.txt)
 
-## TEMA E
+## TEMA 4
 * [Punto 1](E/punto1.m)
 * [Punto 2](punto2.txt)
 * [Punto 3](punto3.txt)

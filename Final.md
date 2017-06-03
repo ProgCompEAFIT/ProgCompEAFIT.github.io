@@ -31,32 +31,32 @@ __**No se aceptan respuestas sin Código!!!**__
 
 ## TEMA 0
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/A/punto1.m)
-* [Punto 2](/A/punto2.md)
-* [Punto 3](/A/punto3.md)
-* [Punto 4](/A/punto4.md)
+* [Punto 2](FINAL/A/punto2.md)
+* [Punto 3](FINAL/A/punto3.md)
+* [Punto 4](FINAL/A/punto4.md)
 
 ## TEMA 1
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/B/punto1.m)
-* [Punto 2](/B/punto2.md)
-* [Punto 3](/B/punto3.md)
-* [Punto 4](/B/punto4.md)
+* [Punto 2](FINAL/B/punto2.md)
+* [Punto 3](FINAL/B/punto3.md)
+* [Punto 4](FINAL/B/punto4.md)
 
 ## TEMA 2
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/C/punto1.m)
-* [Punto 2](/C/punto2.md)
-* [Punto 3](/C/punto3.md)
-* [Punto 4](/C/punto4.md)
+* [Punto 2](FINAL/C/punto2.md)
+* [Punto 3](FINAL/C/punto3.md)
+* [Punto 4](FINAL/C/punto4.md)
 
 ## TEMA 3
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/D/punto1.m)
-* [Punto 2](/D/punto2.md)
-* [Punto 3](/D/punto3.md)
-* [Punto 4](/D/punto4.md)
+* [Punto 2](FINAL/D/punto2.md)
+* [Punto 3](FINAL/D/punto3.md)
+* [Punto 4](FINAL/D/punto4.md)
 
 ## TEMA 4
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/E/punto1.m)
-* [Punto 2](/E/punto2.md)
-* [Punto 3](/E/punto3.md)
-* [Punto 4](/E/punto4.md)
+* [Punto 2](FINAL/E/punto2.md)
+* [Punto 3](FINAL/E/punto3.md)
+* [Punto 4](FINAL/E/punto4.md)
 
 [FINAL](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/raw/master/FINAL/EXAMENFINAL1.pdf)

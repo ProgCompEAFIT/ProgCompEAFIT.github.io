@@ -10,11 +10,16 @@ Respuesta sin código *NO ES CALIFICADA*
 
 ## DATOS DE ENTRADA:
 
-Para descargar los datos de entrada correspondiente a su equipo debe ver el
++ Para descargar los datos de entrada correspondiente a su equipo debe ver el
 número de equipo asignado -> numeroEquipo modulo 5 -> tema asignado.
 
-Ej, Equipo 123 % 5 => 3   (% operador del modulo)
++ Ej, Equipo 123 % 5 => 3   (% operador del modulo)
 *El tema sería el #3*
+
++ En su correspondiente tema, click derecho sobre cada punto y "salvar como" para descargar sus datos de entrada.
+o copiar la entrada correspondiente!
+
+** RESPUESTA QUE NO CORRESPONDA A SUS DATOS DE ENTRADA NO SERÁ TENIDA EN CUENTA **
 
 
 ## ENTREGA:

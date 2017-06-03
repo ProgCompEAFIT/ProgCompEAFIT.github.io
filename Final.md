@@ -1,9 +1,8 @@
 # EXAMEN FINAL: Programación Computadores
 
-## Intruducción:
+## INTRODUCCIÓN:
 
-Se calificara solo el resultado pero para revisar el resultado es obligatorio adjuntar el código que genera el resultado.
-Respuesta sin código *NO ES CALIFICADA*
+Se calificará solo el resultado, para revisar éste es obligatorio adjuntar el código que genera el correspondiente resultado. **Respuesta sin código *NO ES CALIFICADA* **
 
 ## RESTRICCIONES:
 

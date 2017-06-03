@@ -2,6 +2,7 @@
 
 Hola, bienvenido a la página NO oficial de Programación de computadores de la _Universidad EAFIT_
 
+[EXAMEN FINAL](Final.md)
 
 ## [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
 
@@ -46,5 +47,3 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
 1. [Libro: A Byte of Python](https://python.swaroopch.com/)
 1. [Libro: Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
-
-[t](Final.md)

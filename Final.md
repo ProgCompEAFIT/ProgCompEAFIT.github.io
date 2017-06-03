@@ -59,4 +59,4 @@ __**No se aceptan respuestas sin Código!!!**__
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.txt)
 
-[FINAL](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL/EXAMENFINAL1.pdf)
+[FINAL](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/raw/master/FINAL/EXAMENFINAL1.pdf)

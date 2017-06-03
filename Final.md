@@ -31,31 +31,31 @@ __**No se aceptan respuestas sin Código!!!**__
 
 ## TEMA 0
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/A/punto1.m)
-* [Punto 2](punto2.txt)
+* [Punto 2](punto2.md)
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.md)
 
 ## TEMA 1
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/B/punto1.m)
-* [Punto 2](punto2.txt)
+* [Punto 2](punto2.md)
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.md)
 
 ## TEMA 2
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/C/punto1.m)
-* [Punto 2](punto2.txt)
+* [Punto 2](punto2.md)
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.md)
 
 ## TEMA 3
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/D/punto1.m)
-* [Punto 2](punto2.txt)
+* [Punto 2](punto2.md)
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.md)
 
 ## TEMA 4
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/E/punto1.m)
-* [Punto 2](punto2.txt)
+* [Punto 2](punto2.md)
 * [Punto 3](punto3.md)
 * [Punto 4](punto4.md)
 

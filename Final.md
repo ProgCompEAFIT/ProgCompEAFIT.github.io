@@ -23,10 +23,10 @@ o copiar la entrada correspondiente!
 
 ## ENTREGA:
 
-tanto las respuestas conmo el código deben ser enviadas via EAFIT INTERACTIVA
+tanto las respuestas como el código deben ser enviadas via EAFIT INTERACTIVA
 por entrega de Trabajos.
 
-__**No se aceptan respeustas sin Código!!!**__
+__**No se aceptan respuestas sin Código!!!**__
 
 ## TEMA 0
 * [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/A/punto1.m)

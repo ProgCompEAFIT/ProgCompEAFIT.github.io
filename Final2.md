@@ -30,7 +30,7 @@ por entrega de Trabajos.
 __**No se aceptan respuestas sin Código!!!**__
 
 ## TEMA 0
-* [Punto 1](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/FINAL/A/punto1.m)
+* [Punto 1](2FIN/A/punto1.m)
 * [Punto 2](FINAL/A/punto2.md)
 * [Punto 3](FINAL/A/punto3.md)
 * [Punto 4](FINAL/A/punto4.md)

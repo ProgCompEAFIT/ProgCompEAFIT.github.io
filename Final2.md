@@ -31,32 +31,32 @@ __**No se aceptan respuestas sin Código!!!**__
 
 ## TEMA 0
 * [Punto 1](2FIN/A/punto1.m)
-* [Punto 2](FINAL/A/punto2.md)
-* [Punto 3](FINAL/A/punto3.md)
-* [Punto 4](FINAL/A/punto4.md)
+* [Punto 2](2FIN/A/punto2.md)
+* [Punto 3](2FIN/A/punto3.md)
+* [Punto 4](2FIN/A/punto4.md)
 
 ## TEMA 1
 * [Punto 1](2FIN/B/punto1.m)
-* [Punto 2](FINAL/B/punto2.md)
-* [Punto 3](FINAL/B/punto3.md)
-* [Punto 4](FINAL/B/punto4.md)
+* [Punto 2](2FIN/B/punto2.md)
+* [Punto 3](2FIN/B/punto3.md)
+* [Punto 4](2FIN/B/punto4.md)
 
 ## TEMA 2
 * [Punto 1](2FIN/C/punto1.m)
-* [Punto 2](FINAL/C/punto2.md)
-* [Punto 3](FINAL/C/punto3.md)
-* [Punto 4](FINAL/C/punto4.md)
+* [Punto 2](2FIN/C/punto2.md)
+* [Punto 3](2FIN/C/punto3.md)
+* [Punto 4](2FIN/C/punto4.md)
 
 ## TEMA 3
 * [Punto 1](2FIN/D/punto1.m)
-* [Punto 2](FINAL/D/punto2.md)
-* [Punto 3](FINAL/D/punto3.md)
-* [Punto 4](FINAL/D/punto4.md)
+* [Punto 2](2FIN/D/punto2.md)
+* [Punto 3](2FIN/D/punto3.md)
+* [Punto 4](2FIN/D/punto4.md)
 
 ## TEMA 4
 * [Punto 1](2FIN/E/punto1.m)
-* [Punto 2](FINAL/E/punto2.md)
-* [Punto 3](FINAL/E/punto3.md)
-* [Punto 4](FINAL/E/punto4.md)
+* [Punto 2](2FIN/E/punto2.md)
+* [Punto 3](2FIN/E/punto3.md)
+* [Punto 4](2FIN/E/punto4.md)
 
 [FINAL](FINAL2.pdf)

@@ -2,7 +2,7 @@
 
 Hola, bienvenido a la página NO oficial de Programación de computadores de la _Universidad EAFIT_
 
-[EXAMEN FINAL](Final.md)
+[EXAMEN FINAL](suple.md)
 
 ## [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
 

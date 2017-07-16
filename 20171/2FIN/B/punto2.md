@@ -1,0 +1,4 @@
+la siguiente es la participacion en pesos de los diferentes productos (10) de la empresa ACME:
+
+
+[5355493954, 5469677622, 2129887390, 4401426637, 3852564668, 74633147118, 2348457053, 5626832103, 3683305431, 31542649913]

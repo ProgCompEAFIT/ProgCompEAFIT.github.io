@@ -3,17 +3,17 @@ layout: post
 title: Programación de Computadores: Monitores
 ---
 
-_En Orden de izquierda a derecha 1,2,3,4,5,6_
+_En Orden de izquierda a derecha 1,2,3,4,5
 
 ![Monitores](/aux/img/monitores.jpg)
 
 ## **1.Mateo Hincapie**
 ### mhinca20@eafit.edu.co
 
-+ Lunes 2-3
++ Lunes 2:00 - 3:00
 + Martes 12:30 - 2:30
 + Jueves 7:30 - 11:30
-+ Viernes 9-12
++ Viernes 9:00 -12:00
 
 ## **2.Marcos Sierra**
 ### msierr37@eafit.edu.co
@@ -23,7 +23,7 @@ _En Orden de izquierda a derecha 1,2,3,4,5,6_
 + Jueves 1:00 a 3:00
 + Viernes 9:00 a 12:00
 
-## **3.Dillan Muñeton**programación
+## **3.Dillan Muñeton**
 ### Dmuneto1@eafit.edu.co
 
 + Lunes 12:00 - 3:00

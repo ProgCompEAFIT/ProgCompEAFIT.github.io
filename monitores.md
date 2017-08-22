@@ -29,13 +29,13 @@ _En Orden de izquierda a derecha 1,2,3,4,5
 + Lunes 12:00 - 3:00
 + Miércoles 12:00 - 3:00
 + Jueves 7:30 - 8:30
-+ Viernes 6:00 - 9:00 (Clase Andres)
++ (Viernes 6:00 - 9:00 Clase Andres García)
 
 
 ## **4.Camilo Suaza**
 ### csuazag@eafit.edu.co
 
-+ Lunes 6:00 - 9:00 (Clase Sergio M)
++ (Lunes 6:00 - 9:00 Clase Sergio M)
 + Martes 8:00 - 10:00
 + Miércoles 8:00 - 10:00
 + Jueves 8:00 - 10:00

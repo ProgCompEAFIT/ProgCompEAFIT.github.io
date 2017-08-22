@@ -5,7 +5,7 @@ title: Programación de Computadores: Monitores
 
 _En Orden de izquierda a derecha 1,2,3,4,5
 
-![Monitores](/aux/img/monitores.jpg)
+![Monitores](/aux/img/monitores20172.jpg)
 
 ## **1.Mateo Hincapie**
 ### mhinca20@eafit.edu.co

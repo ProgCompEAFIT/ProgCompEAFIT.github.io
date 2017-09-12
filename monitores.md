@@ -18,10 +18,10 @@ _En Orden de izquierda a derecha 1,2,3,4,5
 ## **2.Marcos Sierra**
 ### msierr37@eafit.edu.co
 
-+ Martes 1:00 a 5:00
++ Martes 12:00 a 4:00
 + Miércoles 9:00 a 10:00
 + Jueves 1:00 a 3:00
-+ Viernes 9:00 a 12:00
++ Viernes 7:00 a 10:00
 
 ## **3.Dillan Muñeton**
 ### Dmuneto1@eafit.edu.co

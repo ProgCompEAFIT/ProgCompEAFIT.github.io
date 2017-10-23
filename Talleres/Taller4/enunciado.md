@@ -8,3 +8,5 @@ Calcular e imprimir la suma de sus areas y perimetros(todas las figuras)
 
 El archivo esta dado con la siguiente estructura
 Tipo figura, nombre figura, parametros
+
+[Entrada](https://raw.githubusercontent.com/ProgCompEAFIT/ProgCompEAFIT.github.io/master/Talleres/Taller4/input.txt)

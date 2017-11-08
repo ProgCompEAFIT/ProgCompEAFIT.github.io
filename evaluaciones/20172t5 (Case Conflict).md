@@ -1,0 +1,39 @@
+# Taller 5
+
+## Enunciado
+
+Visualizar la información es una de las formas mas naturales de entender datos.
+cuando tenemos gran cantidad de datos por procesar y debemos hacer esta tarea
+de forma repetitiva se hace necesario programar tales tareas.
+
+Para esta actividad queremos visualizar los datos mensuales de una estación de
+prestamo de bicicletas.
+
+### Gráficos esperados
+
+1. Cantidad de prestamos segun duración del prestamo:
+
+si clasificamos los prestamos según los siguientes parametros:
+
+weekend -> mayor a 12 horas
+transporte -> mayor a 8 horas, menor o igual a 12
+meeting -> mayor a hora y media, menor o igual a 8 horas
+snack -> mayor a 5 minutos, menor o igual a hora y media
+check ->  menor o igual a 5 minutos
+
+
+2. Cantidad de prestamos según usuario
+
+3.
+
+
+## Entrada
+
+la entrada es un archivo csv, cuyo primer valor es la hora de prestamo, segundo
+valor la hora de devolución y tercer valor el identificador del usuario.
+
+[octubre](oct.csv)
+
+## Salida Esperada
+
+Gráficas generadas para cada punto.

@@ -10,6 +10,8 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
 ## [Profesores](profesores/profes.md)
 
+## [Evaluaciones](evaluaciones/evals.md)
+
 ## [Monitores](monitores.md)
 
 ## Presentaciones

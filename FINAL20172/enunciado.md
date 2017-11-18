@@ -60,6 +60,10 @@ para el mes asignado.
 
 [Descargar](https://www.datos.gov.co/api/views/c6z5-qfp4/rows.csv?accessType=DOWNLOAD)
 
+si les falla la descarga pueden entrar a:
+
+[Descarga 2](datos.csv)
+
 ### Salida Esperada:
 
 ## ENTREGA

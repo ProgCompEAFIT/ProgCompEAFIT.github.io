@@ -64,13 +64,14 @@ para el mes asignado.
 
 ## ENTREGA
 
-La evaluación del final será comparando las respuestas dadas con las respuestas esperadas, para que sus respuestas sean validas debe adjuntar el código con el que las generó de lo contrario sus respuestas **NO SERAN TENIDAS EN CUENTA**
+La evaluación del final será comparando las respuestas dadas con las respuestas esperadas, para que sus respuestas sean válidas debe adjuntar el código con el que las generó de lo contrario sus respuestas **NO SERÁN TENIDAS EN CUENTA**
 
 
 ## AYUDAS
 
-El uso de Programación Orientada a Objetos no es obligatorio, aunque se adjunta código de una clase Sismo para quienes lo quieran utilizar.
+El uso de Programación Orientada a Objetos no es obligatorio, aunque se adjunta código de una _"clase Sismo"_ para quienes lo quieran utilizar.
 
+Se adjunta una función para facilitar el manejo de fecha hora.
 
 ```python
 # -*- coding: utf-8 -*-

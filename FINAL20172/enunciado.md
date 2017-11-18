@@ -2,27 +2,31 @@
 # PROGRAMACIÓN DE COMPUTADORES(ST0240)
 # FUNDAMENTOS DE PROGRAMACIÓN (ST0286)
 
-## Instrucciónes Iniciales
+## Instrucciones Iniciales
 
 Bienvenido a la evaluación final de las materias ST0240 y ST0286,
 
 ## Compromiso de Integridad
 
-Durante el exámen se pasará firmando la asistencia al mismo, al firmar la planilla de asistencia usted está afirmando que se encuentra de acuerdo con las póliticas del examen dadas a continuación:
+Durante el examen se pasará firmando la asistencia al mismo. Al firmar usted está aceptando que se encuentra de acuerdo con las políticas del examen dadas a continuación:
 
-* Usted se encuentra sentado en una silla específica, con el número marcado con cinta verde en la esquina superior de la pantalla al firmar debe poner el numero asignado.
+* Usted se encuentra sentado en una silla específica, al firmar debe poner el número marcado con cinta verde en la esquina superior de la pantalla.
+
 
 * No puede hacer uso de dispositivos diferentes al computador de la universidad.
+al firmar debe poner el número asignado.
 
-
-Hay 10 tipos de examenes diferentes, para saber cual es su tema mire el ultimo digito que tiene asignado su puesto, sus respuestas deberan responder a tal dígito.
 
 De acuerdo con lo estipulado en el comunicado el uso de dispositivos diferentes a los permitidos es considerado fraude y el **único** dispositivo permitido es el pc de la universidad.
 
-## Eunciado
 
-La red sismica del Servicio Geológico Colombiano le entrega los siguientes datos
-pertenencientes al año 2015, y le otorga las siguientes tareas:
+Hay 10 tipos de examenes diferentes, para saber cuál es su tema mire el último dígito que tiene asignado su puesto, sus respuestas deberán corresponder a dicho dígito.
+
+
+## Enunciado
+
+La red sísmica del Servicio Geológico Colombiano le entrega los siguientes datos
+pertenecientes al año 2015 y le otorga las siguientes tareas:
 
 ### De los siguientes puntos escoja 3:
 
@@ -34,7 +38,7 @@ pertenencientes al año 2015, y le otorga las siguientes tareas:
 3. Gráficar  en un diagrama de barras (histograma) con la profundiad promedio de mes asignado
 
 4. Gráficar en un diagrama de barras (histograma) de cantidad de sismos por día
-par el departamento y mes asignado.
+para el mes asignado.
 
 
 ### Datos de Entrada:
@@ -53,5 +57,20 @@ La evaluación del final será comparando las respuestas dadas con las respuesta
 
 ```python
 # -*- coding: utf-8 -*-
+import datetime
+import timedelta
+
+class Sismo:
+
+    def __init__(self, fecha,departamento,municipio):
+        self.fecha = fecha
+        self.departamento = departamento
+        self.municipio = municipio
+
+def to_date(fecha_str,hora_str):
+    #recibe string, retorna un datetime
+    d = [int(x) for x in fecha_str.split()[0].split('/')]
+    t = [int(x) for x in hora_str.split(':')]
+    return datetime.datetime(d[2],d[0],d[1],*t)
 
 ```

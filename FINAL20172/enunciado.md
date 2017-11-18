@@ -14,7 +14,7 @@ Durante el examen se pasará firmando la asistencia al mismo. Al firmar usted es
 
 en el siguiente ejemplo el pc asignado es el 16, cuyo último dígito es el 6, por lo tanto el mes correspondiente sería Junio
 
-![ejemplo.jpeg](ejemplo)
+![ejemplo](ejemplo.jpeg)
 
 + 1 - Enero
 + 2 - Febrero

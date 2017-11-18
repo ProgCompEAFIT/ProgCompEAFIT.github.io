@@ -13,6 +13,18 @@ Durante el examen se pasará firmando la asistencia al mismo. Al firmar usted es
 * Usted se encuentra sentado en una silla específica, al firmar debe poner el número marcado con cinta verde en la esquina superior de la pantalla.
 
 
+
+1- Enero
+2- Febrero
+3- Marzo
+4- Abril
+5- Mayo
+6- Junio
+7- Julio
+8- Agosto
+9- Septiembre
+0- Octubre
+
 * No puede hacer uso de dispositivos diferentes al computador de la universidad.
 al firmar debe poner el número asignado.
 
@@ -31,15 +43,16 @@ pertenecientes al año 2015 y le otorga las siguientes tareas:
 ### De los siguientes puntos escoja 3:
 
 
-1.
 
-2. Entregue un diccionario con el código y magnitud de los 5 mayores sismos para el mes asignado
 
-3. Gráficar  en un diagrama de barras (histograma) con la profundiad promedio de mes asignado
+1. Determinar el promedio de la magnitud para los eventos sismicos del mes asignado.
 
-4. Gráficar en un diagrama de barras (histograma) de cantidad de sismos por día
+1. Gráficar  en un diagrama de torta la cantidad de sismos por departamento del mes asignado
+
+1. Gráficar en un diagrama de barras (histograma) la cantidad de sismos por día
 para el mes asignado.
 
+1. Entregue un diccionario clave: datetime y valor:magnitud de los 5 mayores sismos para el mes asignado (pueden ser dos listas)
 
 ### Datos de Entrada:
 
@@ -71,6 +84,6 @@ def to_date(fecha_str,hora_str):
     #recibe string, retorna un datetime
     d = [int(x) for x in fecha_str.split()[0].split('/')]
     t = [int(x) for x in hora_str.split(':')]
-    return datetime.datetime(d[2],d[0],d[1],*t)
+    return datetime.datetime(d[2],d[0],d[1],*t)l
 
 ```

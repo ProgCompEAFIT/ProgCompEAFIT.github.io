@@ -13,7 +13,6 @@ Durante el examen se pasará firmando la asistencia al mismo. Al firmar usted es
 * Usted se encuentra sentado en una silla específica, al firmar debe poner el número marcado con cinta verde en la esquina superior de la pantalla.
 
 
-
 + 1 - Enero
 + 2 - Febrero
 + 3 - Marzo
@@ -66,6 +65,8 @@ La evaluación del final será comparando las respuestas dadas con las respuesta
 
 
 ## AYUDAS
+
+El uso de Programación Orientada a Objetos no es obligatorio, aunque se adjunta código de una clase Sismo para quienes lo quieran utilizar.
 
 
 ```python

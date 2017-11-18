@@ -14,16 +14,16 @@ Durante el examen se pasará firmando la asistencia al mismo. Al firmar usted es
 
 
 
-1- Enero
-2- Febrero
-3- Marzo
-4- Abril
-5- Mayo
-6- Junio
-7- Julio
-8- Agosto
-9- Septiembre
-0- Octubre
++ 1 - Enero
++ 2 - Febrero
++ 3 - Marzo
++ 4 - Abril
++ 5 - Mayo
++ 6 - Junio
++ 7 - Julio
++ 8 - Agosto
++ 9 - Septiembre
++ 0 - Octubre
 
 * No puede hacer uso de dispositivos diferentes al computador de la universidad.
 al firmar debe poner el número asignado.

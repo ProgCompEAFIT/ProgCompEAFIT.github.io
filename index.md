@@ -5,7 +5,7 @@ Hola, bienvenido a la página NO oficial de Programación de computadores de la 
 
 ## [FINAL 2017-2](FINAL20172/enunciado.md)
 
-## [FINAL 2017-2](20172-SupletorioFinal/enunciado.md)
+## [SUPLETORIO FINAL 2017-2](20172-SupletorioFinal/enunciado.md)
 
 ## [Programa de la materia](https://drive.google.com/open?id=0B0tZOopbjoslRHEzc1luZDZQZlE)
 

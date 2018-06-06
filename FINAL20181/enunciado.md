@@ -45,5 +45,7 @@ Descargar el tema correspondiente del siguiente link (click derecho guardar como
 ## ENTREGA
 
 La entrega debera hacerce por repl.it.
-la evaluación del final será comparando las respuestas dadas con las respuestas esperadas
-para que sus respuestas sean válidas debe adjuntar el código con el que las generó de lo contrario sus respuestas NO SERÁN TENIDAS EN CUENTA
+
+La evaluación del final será comparando las respuestas dadas con las respuestas esperadas.
+
+Para que sus respuestas sean válidas debe adjuntar el código con el que las generó de lo contrario sus respuestas NO SERÁN TENIDAS EN CUENTA

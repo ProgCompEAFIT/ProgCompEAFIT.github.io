@@ -20,12 +20,12 @@ Hay 10 tipos de examenes diferentes, para saber cuál es su tema mire el último
 
 ## Enunciado (De los siguientes puntos escoja 3)
 
-El software encarcargado de gestionar los servicios de recarga de celulares y otros servicios arroja el seguiente archivo, su tarea es determinar lo siguiente: 
+El software encarcargado de gestionar los servicios de recarga de celulares y otros servicios arroja el seguiente archivo, su tarea es la siguiente: 
 
-1. Determinar la cantidad de transacciones rechazadas para cada servicio, graficar por barras.
+1. Identificar la cantidad de transacciones rechazadas para cada servicio, graficar por barras.
 2. Crear un diagrama de torta mostrando la proporción (porcentaje) de los 9 servicios con mayor cantidad de transacciones en estado completado
-3. De las transacciones completadas determinar el suma del valor de las recargas para los 10 Comerciantes de mayor Venta.
-4. Determinar la cantidad de transacciones que hubo por hora (lista, hora -> cantidad valor)
+3. De las transacciones completadas sumar del valor de las recargas para los 10 Comerciantes de mayor Venta.
+4. Determinar la cantidad de transacciones que hubo por hora (entregar diccionario: hora -> cantidad valor)
 
 ## Datos de Entrada:
 

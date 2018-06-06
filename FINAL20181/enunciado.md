@@ -24,7 +24,7 @@ El software encarcargado de gestionar los servicios de recarga de celulares y ot
 
 1. Identificar la cantidad de transacciones rechazadas para cada servicio, graficar por barras.
 2. Crear un diagrama de torta mostrando la proporción (porcentaje) de los 9 servicios con mayor cantidad de transacciones en estado completado
-3. De las transacciones completadas sumar el valor de las recargas para los 10 Comerciantes de mayor Venta.
+3. De las transacciones completadas, obtener el valor total de las recargas para cada uno de los Comerciantes. Mostrar los 10 Comerciantes de mayor Venta.
 4. Determinar la cantidad de transacciones (todo tipo de estado) que hubo por hora (entregar diccionario: hora -> cantidad valor)
 
 ## Datos de Entrada:

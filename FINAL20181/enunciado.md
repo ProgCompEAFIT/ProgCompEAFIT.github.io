@@ -31,6 +31,17 @@ El software encarcargado de gestionar los servicios de recarga de celulares y ot
 
 Descargar el tema correspondiente del siguiente link (click derecho guardar como...)
 
+[Tema_0.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_0.csv)
+[Tema_1.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_1.csv)
+[Tema_2.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_2.csv)
+[Tema_3.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_3.csv)
+[Tema_4.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_4.csv)
+[Tema_5.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_5.csv)
+[Tema_6.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_6.csv)
+[Tema_7.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_7.csv)
+[Tema_8.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_8.csv)
+[Tema_9.csv](https://github.com/ProgCompEAFIT/ProgCompEAFIT.github.io/blob/master/FINAL20181/TEMAS/informe_9.csv)
+
 ## ENTREGA
 
 La entrega debera hacerce por repl.it

@@ -11,16 +11,15 @@ Bienvenido a la evaluación final de las materias ST0240 y ST0286,
 Durante el examen se pasará firmando la asistencia al mismo. Al firmar usted está aceptando que se encuentra de acuerdo con las políticas del examen dadas a continuación:
 
 + Usted se encuentra sentado en una silla específica, al firmar debe poner el número marcado con cinta verde en la esquina superior de la pantalla.
-+ Hay 10 temas diferentes, para determiar su tema correspondiente ver el último digito del pc asignado. Ej:  si su pc asignado es el 16, cuyo último dígito es el 6, por lo tanto el tema correspondiente será el 6.
++ Hay 10 temas diferentes, para determinar su tema correspondiente ver el último digito del pc asignado. Ej:  si su pc asignado es el 16, cuyo último dígito es el 6, por lo tanto el tema correspondiente será el 6.
 + No puede hacer uso de dispositivos diferentes al computador de la universidad. 
-+ De acuerdo con lo estipulado en el comunicado el uso de dispositivos diferentes a los permitidos es considerado fraude y el único dispositivo permitido es el pc de la universidad.
-
++  El uso de dispositivos diferentes al computador de la universidad se considera como fraude
 
 Hay 10 tipos de examenes diferentes, para saber cuál es su tema mire el último dígito que tiene asignado su puesto, sus respuestas deberán corresponder a dicho dígito, de lo contrario será calificado en 0.
 
 ## Enunciado (De los siguientes puntos escoja 3)
 
-El software encarcargado de gestionar los servicios de recarga de celulares y otros servicios arroja el seguiente archivo, su tarea es la siguiente: 
+El software encargado de gestionar los servicios de recarga de celulares y otros servicios arroja el archivo mostrado en los datos de entrada, su tarea es la siguiente:
 
 1. Identificar la cantidad de transacciones rechazadas para cada servicio, graficar por barras.
 2. Crear un diagrama de torta mostrando la proporción (porcentaje) de los 9 servicios con mayor cantidad de transacciones en estado completado
